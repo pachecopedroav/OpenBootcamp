@@ -1,7 +1,7 @@
 public class Main {
 
     public static void main(String[] args) {
-        suma(20, 40, 60);
+        suma(10, 20, 30);
 
         Coche miCoche = new Coche();
         miCoche.sumarPuertas();
